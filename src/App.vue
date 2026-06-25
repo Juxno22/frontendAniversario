@@ -3,7 +3,6 @@
     <nav class="navbar">
       <div class="container navbar-inner">
         <router-link to="/" class="navbar-brand">
-          <span class="brand-icon">🐂</span>
           <span>Diagsa Automotriz</span>
         </router-link>
         <div class="navbar-links">
